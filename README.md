@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgray-sequalae
+- 👋 Hi, I’m @mgray-sequelae
 - 👀 I’m interested in volleyball
 - 🌱 I’m currently learning more about software
 - 💞️ I’m looking to collaborate on AI-assisted workflows
